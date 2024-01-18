@@ -1,0 +1,327 @@
+[
+  {
+    "accountId": "1",
+    "email": "1example@mail.com",
+    "authToken": "token1",
+    "creationDate": "06.01.2023",
+    "profile": [
+      {
+        "profileId": "01",
+        "country": "Ukraine",
+        "marketplace": "Dnipro",
+        "campaigns": [
+          {
+            "campaignId": "001",
+            "clicks": 50,
+            "cost": 10000,
+            "date": "16.01.2023"
+          },
+          {
+            "campaignId": "101",
+            "clicks": 55,
+            "cost": 10000,
+            "date": "26.02.2023"
+          },
+          {
+            "campaignId": "201",
+            "clicks": 33,
+            "cost": 10000,
+            "date": "06.03.2023"
+          },
+          {
+            "campaignId": "301",
+            "clicks": 44,
+            "cost": 10000,
+            "date": "01.04.2023"
+          },
+          {
+            "campaignId": "401",
+            "clicks": 20,
+            "cost": 10000,
+            "date": "16.05.2023"
+          },
+          {
+            "campaignId": "501",
+            "clicks": 90,
+            "cost": 10000,
+            "date": "26.06.2024"
+          }
+        ]
+      },
+      {
+        "profileId": "11",
+        "country": "Ukraine",
+        "marketplace": "Pavlohrad",
+        "campaigns": [
+          {
+            "campaignId": "011",
+            "clicks": 22,
+            "cost": 10000,
+            "date": "16.01.2024"
+          }
+        ]
+      },
+      {
+        "profileId": "21",
+        "country": "Ukraine",
+        "marketplace": "Kryvyy Rih",
+        "campaigns": [
+          {
+            "campaignId": "021",
+            "clicks": 60,
+            "cost": 10000,
+            "date": "16.01.2024"
+          }
+        ]
+      },
+      {
+        "profileId": "31",
+        "country": "Ukraine",
+        "marketplace": "Nikopol",
+        "campaigns": [
+          {
+            "campaignId": "031",
+            "clicks": 10,
+            "cost": 10000,
+            "date": "16.01.2024"
+          }
+        ]
+      },
+      {
+        "profileId": "41",
+        "country": "Ukraine",
+        "marketplace": "Novomoskovs'k",
+        "campaigns": [
+          {
+            "campaignId": "041",
+            "clicks": 30,
+            "cost": 10000,
+            "date": "16.01.2024"
+          }
+        ]
+      },
+      {
+        "profileId": "51",
+        "country": "Ukraine",
+        "marketplace": "Zhovty Vody",
+        "campaigns": [
+          {
+            "campaignId": "051",
+            "clicks": 20,
+            "cost": 10000,
+            "date": "16.01.2024"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "accountId": "2",
+    "email": "2example@mail.com",
+    "authToken": "token2",
+    "creationDate": "11.04.2023",
+    "profile": [{
+      "profileId": "02",
+      "country": "Ukraine",
+      "marketplace": "Kyiv",
+      "campaigns": [
+        {
+          "campaignId": "002",
+          "clicks": 30,
+          "cost": 11000,
+          "date": "16.06.2023"
+        }
+      ]
+    }]
+  },
+  {
+    "accountId": "3",
+    "email": "3example@mail.com",
+    "authToken": "token3",
+    "creationDate": "22.02.2023",
+    "profile": [{
+      "profileId": "03",
+      "country": "Ukraine",
+      "marketplace": "Lviv",
+      "campaigns": [
+        {
+          "campaignId": "003",
+          "clicks": 20,
+          "cost": 9000,
+          "date": "26.09.2023"
+        }
+      ]
+    }]
+  },
+  {
+    "accountId": "4",
+    "email": "4example@mail.com",
+    "authToken": "token4",
+    "creationDate": "20.11.2023",
+    "profile": [{
+      "profileId": "04",
+      "country": "Ukraine",
+      "marketplace": "Vinnytsia",
+      "campaigns": [
+        {
+          "campaignId": "004",
+          "clicks": 10,
+          "cost": 10000,
+          "date": "12.12.2023"
+        }
+      ]
+    }]
+  },
+  {
+    "accountId": "5",
+    "email": "5example@mail.com",
+    "authToken": "token5",
+    "creationDate": "18.03.2023",
+    "profile": [{
+      "profileId": "05",
+      "country": "Ukraine",
+      "marketplace": "Rivne",
+      "campaigns": [
+        {
+          "campaignId": "005",
+          "clicks": 11,
+          "cost": 5000,
+          "date": "11.08.2023"
+        }
+      ]
+    }]
+  },
+  {
+    "accountId": "6",
+    "email": "6example@mail.com",
+    "authToken": "token6",
+    "creationDate": "06.01.2023",
+    "profile": [{
+      "profileId": "06",
+      "country": "Ukraine",
+      "marketplace": "Uzhhorod",
+      "campaigns": [
+        {
+          "campaignId": "006",
+          "clicks": 19,
+          "cost": 14000,
+          "date": "16.05.2023"
+        }
+      ]
+    }]
+  },
+  {
+    "accountId": "7",
+    "email": "7example@mail.com",
+    "authToken": "token7",
+    "creationDate": "12.03.2023",
+    "profile": [{
+      "profileId": "07",
+      "country": "Ukraine",
+      "marketplace": "Zhytomyr",
+      "campaigns": [
+        {
+          "campaignId": "007",
+          "clicks": 15,
+          "cost": 12000,
+          "date": "16.08.2023"
+        }
+      ]
+    }]
+  },
+  {
+    "accountId": "8",
+    "email": "8example@mail.com",
+    "authToken": "token8",
+    "creationDate": "19.02.2023",
+    "profile": [{
+      "profileId": "08",
+      "country": "Ukraine",
+      "marketplace": "Kharkiv",
+      "campaigns": [
+        {
+          "campaignId": "008",
+          "clicks": 88,
+          "cost": 12000,
+          "date": "27.06.2023"
+        }
+      ]
+    }]
+  },
+  {
+    "accountId": "9",
+    "email": "9example@mail.com",
+    "authToken": "token9",
+    "creationDate": "16.08.2023",
+    "profile": [{
+      "profileId": "09",
+      "country": "Ukraine",
+      "marketplace": "Ivano-Frankivsk",
+      "campaigns": [
+        {
+          "campaignId": "009",
+          "clicks": 23,
+          "cost": 16000,
+          "date": "19.11.2023"
+        }
+      ]
+    }]
+  },
+  {
+    "accountId": "10",
+    "email": "10example@mail.com",
+    "authToken": "token10",
+    "creationDate": "10.01.2023",
+    "profile": [{
+      "profileId": "010",
+      "country": "Ukraine",
+      "marketplace": "Ternopil",
+      "campaigns": [
+        {
+          "campaignId": "0010",
+          "clicks": 54,
+          "cost": 14000,
+          "date": "12.05.2023"
+        }
+      ]
+    }]
+  },
+  {
+    "accountId": "11",
+    "email": "11example@mail.com",
+    "authToken": "token11",
+    "creationDate": "06.01.2023",
+    "profile": [{
+      "profileId": "011",
+      "country": "Ukraine",
+      "marketplace": "Odesa",
+      "campaigns": [
+        {
+          "campaignId": "0011",
+          "clicks": 33,
+          "cost": 12000,
+          "date": "26.08.2023"
+        }
+      ]
+    }]
+  },
+  {
+    "accountId": "12",
+    "email": "12example@mail.com",
+    "authToken": "token12",
+    "creationDate": "16.01.2023",
+    "profile": [{
+      "profileId": "012",
+      "country": "Ukraine",
+      "marketplace": "Chernivtsi",
+      "campaigns": [
+        {
+          "campaignId": "0012",
+          "clicks": 0,
+          "cost": 17000,
+          "date": "07.04.2023"
+        }
+      ]
+    }]
+  }
+]
